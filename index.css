@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+body,
+html {
+    width: 100%;
+    height: 100%;
+    background-color: antiquewhite;
+}
+
+#header-name {
+    font-size: 4rem;
+    width: 65%;
+}
+#header-about {
+    font-size: 1.5rem;
+}
+
+.about-me-text {
+    font-size: 1.4rem;
+    margin-right: 15%;
+}
+.centering {
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+
+.demo-gif {
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    visibility: hidden;
+}
